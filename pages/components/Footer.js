@@ -34,7 +34,7 @@ function Footer() {
                             </div>
                         </div>
                     </div>
-                    <div className="col-lg-4 pt-4 mt-5 text-center">
+                    <div className="col-lg-4 pt-4 mt-5 text-center mb-lg-0 mb-5">
                         <i class="fa fa-twitter mx-2" style={{ color: 'gray', fontSize:'24px' }}></i>
                         <i class="fa fa-linkedin mx-2" style={{ color: 'gray', fontSize:'24px' }}></i>
                         <i class="fa fa-facebook mx-2" style={{ color: 'gray', fontSize:'24px' }}></i>
